@@ -1,0 +1,5 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/tobiasgrosser/.elan/toolchains/leanprover--lean4-nightly---nightly-2025-02-05/bin/lean --tstack=400000 ././././LeanRV64DLEAN/Defs.lean -R ./././. -o ././.lake/build/lib/LeanRV64DLEAN/Defs.olean -i ././.lake/build/lib/LeanRV64DLEAN/Defs.ilean -c ././.lake/build/ir/LeanRV64DLEAN/Defs.c --json",
+   "level": "trace"}],
+ "depHash": "205471238252070074"}
